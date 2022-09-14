@@ -8,6 +8,6 @@ Smart Trolley using node MCU
  ->LCD(16x2)
  
  # Circuit Diagram:
- ![alt text] (https://user-images.githubusercontent.com/62475999/186330660-843e4d71-d4fc-4e37-91e3-9d2990271ea9.png) 
-
+ ![Screenshot 2022-09-14 194922](https://user-images.githubusercontent.com/66907323/190182641-9fd3e5a8-da2a-4716-8f4e-d9fba9333b1e.png)
+ 
 
