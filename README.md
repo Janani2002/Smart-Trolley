@@ -2,9 +2,12 @@
 Smart Trolley using node MCU
 
 # Components used:
- ->Node MCU
+ ->Node MCU 
+ 
  ->RFID Sensor(EM-18)
+
  ->RFID Tag(125kHz)
+ 
  ->LCD(16x2)
  
  # Circuit Diagram:
