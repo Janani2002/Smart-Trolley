@@ -10,6 +10,8 @@ Smart Trolley using node MCU
  
  - LCD(16x2)
  
+ - I2C Module
+ 
  # Circuit Diagram:
  ![Screenshot 2022-09-14 194922](https://user-images.githubusercontent.com/66907323/190182641-9fd3e5a8-da2a-4716-8f4e-d9fba9333b1e.png)
  
